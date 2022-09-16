@@ -1,0 +1,8 @@
+*.avi
+*.mp4
+esc_dynamic
+esc_moving
+.ipynb_checkpoints
+__pycache__
+weights/best_stop_aug_ckpt.pt
+weights/last_ckpt.pt
